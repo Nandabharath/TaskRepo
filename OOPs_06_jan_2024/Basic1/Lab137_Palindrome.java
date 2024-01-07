@@ -2,7 +2,7 @@ package OOPs_06_jan_2024.Basic1;
 
 import java.util.Scanner;
 
-public class Lab137 {
+public class Lab137_Palindrome {
     public static void main(String[] args) {
 
         Scanner scanner=new Scanner(System.in);

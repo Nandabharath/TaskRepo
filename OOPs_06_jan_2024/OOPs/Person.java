@@ -1,7 +1,6 @@
 package OOPs_06_jan_2024.OOPs;
 
 public class Person {
-    public static void main(String[] args) {
 
         // Attribute
         String name;
@@ -16,15 +15,18 @@ public class Person {
 
         // Behaviour - What you can do?
 
-        void sleep(){
+        void sleep () {
             System.out.println("Want to sleep");
         }
 
-        void talk(){
+        void talk () {
             System.out.println("Talk");
         }
 
-        boolean isMarried(){
+        boolean isMarried () {
             return true;
+        }
+
+
     }
-}
+

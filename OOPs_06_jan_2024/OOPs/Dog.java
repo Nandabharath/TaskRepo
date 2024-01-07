@@ -3,7 +3,7 @@ package OOPs_06_jan_2024.OOPs;
 import java.lang.reflect.Method;
 
 public class Dog {
-    public static void main(String[] args) {
+
 
         //constructor
         Dog(){
@@ -26,4 +26,4 @@ public class Dog {
         }
 
     }
-}
+
