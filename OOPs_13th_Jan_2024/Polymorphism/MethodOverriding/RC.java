@@ -7,7 +7,7 @@ public class RC {
         d.bark();
 
         Hound h= new Hound();
-        d.bark();
+        h.bark();
 
         Dog f= new Hound();
         f.bark();//Runtime polymorphism
